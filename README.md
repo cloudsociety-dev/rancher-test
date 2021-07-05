@@ -9,3 +9,5 @@ commit 2
 commit 3 se queda
 commit 4
 commit 5
+commit 6 es el final
+commit 7
